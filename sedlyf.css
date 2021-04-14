@@ -1,0 +1,28 @@
+h1 {
+	color:#de471c;
+	font-family: 'Zilla Slab Highlight', cursive;
+	font-size: 68px;
+}
+
+#alone {
+	font-family: 'Comic Sans MS';
+	font-size: 24px;
+	color: white;
+	font-weight: bold;
+}
+
+* {
+	background-color: #ea7e43;
+}
+
+head {
+	}
+
+#main {
+	font-size: 20px;
+	font-family: "Courier New";
+	color:white;
+	border: 2px solid white;
+	padding: 4px;
+	box-sizing: border-box;
+}
